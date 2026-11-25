@@ -19,8 +19,10 @@ and the time and space complexity.
 
 | Platform   | Solved |
 |------------|--------|
-| LeetCode   | 0      |
-| Codeforces | 0      |
+| LeetCode   | <span id="lc-solved">5</span> |
+| Codeforces | <span id="cf-solved">6</span> |
+
+The counts update automatically every night at 12:00 AM IST.
 
 ## Daily routine
 
