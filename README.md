@@ -21,9 +21,9 @@ and the time and space complexity.
 
 | Platform   | Solved |
 |------------|--------|
-| LeetCode   | <span id="lc-solved">12</span> |
-| Codeforces | <span id="cf-solved">6</span> |
-| CodeChef   | <span id="cc-solved">115</span> |
+| LeetCode   | <span id="lc-solved">13</span> |
+| Codeforces | <span id="cf-solved">7</span> |
+| CodeChef   | <span id="cc-solved">116</span> |
 
 The counts update automatically every night at 12:00 AM IST.
 
